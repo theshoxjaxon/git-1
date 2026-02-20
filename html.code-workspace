@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../g3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "g3",
+		"liveServer.settings.port": 5501
+	}
+}

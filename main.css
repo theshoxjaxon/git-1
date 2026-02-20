@@ -1,0 +1,51 @@
+* {
+    color: brown;
+}
+
+b {
+    color: aqua;
+    background-color: black;
+}
+
+.text {
+    color: chartreuse;
+}
+
+#text {
+    color: deeppink;
+}
+
+p {
+    color: cornflowerblue;
+}
+
+/* div {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+} */
+
+.box1 {
+    background-color: blueviolet;
+    /* width: 200px; */
+    height: 200px;
+}
+
+.div1 {
+    width: 200px;
+    height: 200px;
+}
+
+.box2 {
+    background-color: darkgreen;
+    width: 100px;
+    height: 100px;
+}
+
+#box3 {
+    background-color: darkblue;
+    width: 300px;
+    height: 300px;
+}
+
+/* id, class, teg nomi, * */
